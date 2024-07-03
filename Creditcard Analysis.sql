@@ -70,7 +70,7 @@ GROUP BY gender;
 
 
 
-										--IMPACT OF EMPLOYMENT ON CREDIT CARD ELIGIBILITY
+--IMPACT OF EMPLOYMENT ON CREDIT CARD ELIGIBILITY
 --2. How does employment status affect credit card eligibility?
 --Compare the eligibility rates for employed and unemployed indiciduals using the unemployed column.
 
